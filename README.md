@@ -22,8 +22,8 @@ The project is about making an analysis of the article namely 'Molecular Communi
 ---
 
 - Here we have two project reports, which contains system model explaination, formula derivation and result comparision
-- Also analysis.pdf contains hand-written derivations
-- For the results we had used matlab and python respectively for system model and network model
+- Also [analysis.pdf](https://github.com/DipikaPawar12/Molecular-Communication/blob/main/analysis.pdf) contains hand-written derivations
+- For the results we had used [matlab](https://github.com/DipikaPawar12/Molecular-Communication/tree/main/Generated_Results/Analytical) and [python](https://github.com/DipikaPawar12/Molecular-Communication/tree/main/Generated_Results/DataDrivenANN) respectively for system model and network model
 - Apart from these, we had created a project video for more explaination
 - Here is the link: https://www.youtube.com/watch?v=yYkgotBWvhA&list=LL&index=17
 
