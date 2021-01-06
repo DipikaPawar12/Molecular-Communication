@@ -38,4 +38,4 @@ The project is about making an analysis of the article namely 'Molecular Communi
 
 ---
 
-| [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Miracle Rindani](https://github.com/mrindani)                                                                                                |
+| [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Miracle Rindani](https://github.com/mrindani)                                                                                                | [Mithilesh Thakkar](https://github.com/Mithilesh1609)
